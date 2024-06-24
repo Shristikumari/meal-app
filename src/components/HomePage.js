@@ -19,7 +19,7 @@ const Button = styled(Link)`
     background-color: #555;
   }
 `;
-
+console.log("hello");
 function HomePage() {
   return (
     <Container>
